@@ -15,6 +15,8 @@ module.exports = {
         primary: '#672280',
         secondary: '#8224A3',
         tertialry: '#A626D3',
+        startColor: '#711F8D',
+        endColor: '#A818DA'
       },
       fontFamily: {
         'karla': ['Karla', 'sans-serif']
