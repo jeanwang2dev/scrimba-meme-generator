@@ -1,3 +1,4 @@
-# A react project starter setup 
+# Meme Generator from Scrimba course
 
-## with tailwindcss and webpack5
+* [link](https://scrimba.com/learn/learnreact)
+* build a meme generator
