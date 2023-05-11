@@ -10,3 +10,10 @@
     }
 
 }
+
+@layer components {
+
+    .memeText {
+        @apply text-3xl font-semibold text-white uppercase;
+    }
+}
